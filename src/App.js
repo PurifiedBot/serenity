@@ -18,7 +18,7 @@ function App() {
 	return ( <
 		main >
 		<
-		h1 > Welcome to»𝚂𝙴𝚁𝙴𝙽𝙸𝚃𝚈« < /h1> <
+		h1 > Welcome to SERENITY < /h1> <
 		h2 >
 		Deployed by {
 			' '
